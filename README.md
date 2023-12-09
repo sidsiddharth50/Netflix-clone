@@ -1,2 +1,2 @@
 # Netflix-clone
- I have made this project ubder bharat intern with html and css
+This is a simple netflix clone i have made using Html and Css under the code-soft internship program
